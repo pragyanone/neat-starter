@@ -3,9 +3,13 @@ title: ADBS
 
 ---
 # {{title}}
-![pybid.jpg](/static/img/adbs.jpg)
+<div align="center">
+<img src="/static/img/adbs.jpg" class="center">
+</div>
 
-A handy app to convert dates between AD and BS calendars. *A must app to be pinned to the taskbar for every Nepali.*
+
+A handy app to convert dates between AD and BS calendars. <br>
+*A must app to be pinned to the taskbar, for every Nepali.*
 
 Download: [Github Release](https://github.com/pragyanone/ADBS/releases/latest/download/ADBS_ShresthaPragyan.com.np.exe)
 

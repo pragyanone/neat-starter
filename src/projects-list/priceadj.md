@@ -3,7 +3,10 @@ title: Price Adjustment Excel Workbook
 
 ---
 # {{title}}
-![pybid.jpg](/static/img/priceadj.jpg)
+
+<div align="center">
+<img src="/static/img/priceadj.jpg" class="center">
+</div>
 
 An Excel workboot to automatically perform price adjustment calculation based on the latest available indices from NRB.
 

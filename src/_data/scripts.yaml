@@ -1,0 +1,16 @@
+links:
+  - title: DownloadTUCL
+    url: https://github.com/pragyanone/DownloadTUCL
+    desc: Bulk download Tribhuvan University Central Library (eLibrary) elibrary.tucl.edu.np
+
+  - title: RigidPavementBUCStress
+    url: https://github.com/pragyanone/RigidPavementBUCStress
+    desc: Bulk download Tribhuvan University Central Library (eLibrary) elibrary.tucl.edu.np
+    
+  - title: SSRNTrafficData
+    url: https://github.com/pragyanone/SSRNTrafficData
+    desc: Bulk download traffic data from SSRN, DoR
+
+  - title: PyHamroPatro
+    url: https://github.com/pragyanone/PyHamroPatro
+    desc: HamroPatro as a desktop app

@@ -3,7 +3,9 @@ title: PyBid
 
 ---
 # {{title}}
-![pybid.jpg](/static/img/pybid.jpg)
+<div align="center">
+<img src="/static/img/pybid.jpg" class="center">
+</div>
 
 An app to quickly create bidding documents for PPMO/Bolpatra.
 

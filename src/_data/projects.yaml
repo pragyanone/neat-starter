@@ -1,10 +1,12 @@
 links:
   - title: PyBid
-    url: /tools/pybid
+    url: /projects-list/pybid
     desc: App to quickly create bidding documents for PPMO/Bolpatra
+
   - title: ADBS
-    url: /tools/adbs
+    url: /projects-list/adbs
     desc: App to convert dates between AD and BS calendars.
+
   - title: Price Adjustment Excel
-    url: /tools/priceadj
+    url: /projects-list/priceadj
     desc: Excel workbook for automatic price adjustment calculation.
