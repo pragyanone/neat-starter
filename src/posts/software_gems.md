@@ -5,7 +5,7 @@ date: 2024-11-11
 ---
 
 ### Web
-- [Squoosh](https://squoosh.app/): to compress images
+- [Squoosh](https://squoosh.app/): compress images
 
 ### Windows PC
 - [Filelight](https://apps.kde.org/en-gb/filelight/) & [WinDirStat](https://windirstat.net/): analyse disk usage
