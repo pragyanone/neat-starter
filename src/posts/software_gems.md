@@ -1,6 +1,6 @@
 ---
 title: Software Gems
-description: Useful Software I’ve Discovered
+description: Noice Software I’ve Discovered
 date: 2024-11-11
 ---
 
