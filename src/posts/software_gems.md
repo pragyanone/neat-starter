@@ -5,15 +5,15 @@ date: 2024-11-11
 ---
 
 ### Web
-- [Squoosh](https://squoosh.app/): compress images
+- <a href="https://squoosh.app/" target="_blank">Squoosh</a>: compress images
 
 ### Windows PC
-- [Filelight](https://apps.kde.org/en-gb/filelight/) & [WinDirStat](https://windirstat.net/): analyse disk usage
-- [Everything](https://www.voidtools.com/): search files fast
-- [AutoHotkey](https://www.autohotkey.com/): create shortcuts
-- [MAS](https://massgrave.dev/): download and activate windows & office
-- [Casio emulators](http://www.casperyc.club/casio/): scientific calculator emulators
+- <a href="https://apps.kde.org/en-gb/filelight/" target="_blank">Filelight</a> & <a href="https://windirstat.net/" target="_blank">WinDirStat</a>: analyse disk usage
+- <a href="https://www.voidtools.com/" target="_blank">Everything</a>: search files fast
+- <a href="https://www.autohotkey.com/" target="_blank">AutoHotkey</a>: create shortcuts
+- <a href="https://massgrave.dev/" target="_blank">MAS</a>: download and activate windows & office
+- <a href="http://www.casperyc.club/casio/" target="_blank">Casio emulators</a>: scientific calculator emulators
 
 ### Android
-- [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets&hl=en): Add widgets on the lockscreen
-- [Google Camera Port](https://www.celsoazevedo.com/files/android/google-camera/)
+- <a href="https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets&hl=en" target="_blank">Lockscreen Widgets</a>: Add widgets on the lockscreen
+- <a href="https://www.celsoazevedo.com/files/android/google-camera/" target="_blank">Google Camera Port</a>
